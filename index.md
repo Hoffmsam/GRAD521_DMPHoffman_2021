@@ -1,7 +1,36 @@
 # Data Description
+The question I am looking to answer with my dataset is if two different vineyard management techniques can mitigate any effects on the sensory characteristics of Pinot Noir infected with Grapevine Red Blotch Virus (GRBV). GRBV has been shown to affect the vine’s ability to mature leading to grapes that never reach their final ripeness. The industry believes that wine made from these grapes will be lesser in quality, however this has not been completely proven. Regardless, the mitigation of any effects is imperative, and thus this research looks to utilize vineyard management techniques to mitigate any perceived change. GRBV has shown to have a large seasonality component to it, meaning is its impacts varies from year to year. Thus, this experiment was conducted over two year during the 2018 and 2019 harvest.
+## Sensory Data
+Sensory data is also experimental data and will be collected using the Compusense® sensory software system. The preference testing uses a 9-point hedonic scale ranging, one to nine from extremely dislike too extremely like. Color testing uses a custom-made color scale ranging from pink to red to purple. The scale is placed above a 9-point scale and panelists were asked to select the number that best corresponds to the color of the wine. Aroma analysis uses a method known as Check-All-That-Apply where the panelist smells the wine and selects all the corresponding aromas from a predetermined provided lexicon. Finally, mouthfeel uses a method known as Just-About-Right (JAR). JAR askes the panelist to rate the wine for a given attribute one a 5-point scale. The one on the scale corresponds to “too little” of the attribute while five corresponds to “too much” of the attribute, while a response of three corresponds to the attribute being “Just About Right”. Sensory data is stored within the Compusense® system and is accessible for download into spreadsheets. Data is then deidentified by the PI of the project and sent to me for analysis.
+## Sensory Data Size & File Type
+The sensory data consists of one to five responses for each of the eight to nine wines for each of the panelists (40 for the 2018 samples, 53 for 2019) for each of the four methods. This corresponds to a few hundred data points for each year. The compiled deidentified spreadsheet is currently just over one MB in size.
+## Analytical Data
+This project will generate multiple datasets that will be compiled into aggregate data sets for analysis and comparison. First, non-sensory data will be collected on both the grape juice prior to fermentation, and the wine post fermentation. This data will be used for physiochemical analysis which will give context to the wines prior to sensor. The data for the juice will consist of readings for ⁰Brix, pH, Titratable Acidity, and Yeast Assimilable Nitrogen. The wine data will consist of pH, Titratable Acidity, Polymeric Pigment, Color Density, Color Intensity, Color Shade, and Ethanol. All this data is experimental data. Instrumentation used to collect data is standard laboratory equipment for pH, and Titratable Acidity. Yeast Assimilable Nitrogen requires enzymatic analysis, and a spectrophotometer. Polymeric Pigment, and all the color methods also require the spectrophotometer. Finally, Ethanol utilizes an Anton Paar Alcolyzer which is based off density measurements. The data collected via carrying out the respective analytical method and recording the results in a laboratory notebook, then transferring it to a spreadsheet in Microsoft Excel for analysis. 
+## Analytical Data Size & File Type
+For the physicochemical data will consist of results for each analysis preformed for each treatment group in triplicate for each of the two years the test was performed. This results in one to two hundred pieces of physicochemical data per year. The file sizes of the corresponding spreadsheets are under one MB. 
 # Roles and responsibilities
-## Main Investigator
-
+## Data Manager
+This also falls to the PI as she is the one who is responsible for the data management plan. Additionally, she oversees all data generation, access, analysis, and distribution.
+## DMP Implementation
+This is the responsibility of the PI, as she prepares and maintains all IRB’s.
+## Protection of Sensitive and Protected Data
+The fall primarily to the Lab Manager as she is responsible for panelist onboarding, and deidentifying data.
+## Data Collection/Data Generation
+This is the responsibility of the Grad Student in charge of the experiment.
+## Metadata Generation
+This falls to the Lab Manager who oversees demographic information and panelist recruitment.
+## Data Analysis
+The Grad Student oversees the data analysis for the project. The PI will assist only when necessary, for example the methodology is beyond the understanding of the graduate student at that time. 
+## Quality Control
+This falls on the Grad Student to recognize errors while administering the test, or large errors in the reported data. Additionally, they are there to ensure that no implicit bias is present.
+## Archiving and Preservation
+For the methods used this done using the Compusense® software system which stores the data indefinitely within its cloud system. This responsibility falls to the PI.
+## Instrumentation Maintenance 
+This is dependent on the instrumentation in need of maintenance. Sensory equipment falls under the responsibility of the Lab Manager, while analytical equipment is the responsibility of the PI.
+## Access Control
+Access to the Compusense® system is maintained by the Lab Manager.
+## Software Creation and Maintenance
+Software is not created for this, or any project. The contract allowing usage of the Compusense system is maintained by the PI. 
 # Data standards and metadata
 # Storage and security
 # Access and data sharing
