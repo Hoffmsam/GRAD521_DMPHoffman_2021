@@ -56,16 +56,22 @@ All raw data is backed up on the Compusense® cloud system. Spreadsheets and oth
 ### Psychophysical Data
 Laboratory notebooks are physically stored within the laboratory, which remains locked at all times. Laboratory notebooks are not to be removed from the lab at any time. Spreadsheets consisting of psychophysical data are stored on the same laboratory Box drive as the sensory data.
 ## Organization & Version Control
-The data generated using the Compusense® system is exported into Excel spreadsheets. Each spreadsheet contains the results of a single method conducted and will be named in the following structure: SensoryPanelName_NameofTestMethod_Date_Version. For example, WineConsumerRedBlotchStudy_AromaCATA_05072021_v1. Data will be stored in the project folder contained within the Data folder within the shared Box drive. 
+Sensory data generated using the Compusense® system is exported into Excel spreadsheets. Each spreadsheet contains the results of a single method conducted and will be named in the following structure: SensoryPanelName_NameofTestMethod_Date_Version. For example, WineConsumerRedBlotchStudy_AromaCATA_05072021_v1. Data will be stored in the project folder contained within the Data folder within the shared Box drive. 
 
 Version tracking will be done using the version number scheme located on the file name. Additionally, any changes made will be recorded on the change log created within the spreadsheet (this is a tab located within the spreadsheet in which the date and nature of the change is recorded).
+
+Psychophysical data will be named in a similar fashion, following the format of Projectname_NameofTestMethod_Date_Version. Psychophysical data will follow the same version control methods.
 # Access and data sharing
 ## Availability
+Data will be made available at the time of publication. The data will be available by its inclusion in the supplemental materials section of the publication. The publication and subsequent data will be hosted on the American Journal of Enology and Viticulture website. The supplemental materials section is used as neither the sensory or enology fields have widely available data repositories for use at this time.
 
+Both Sensory and psychophysical data, as well as related deidentified metadata will all be available as csv files within the supplemental materials sections.
+
+Data will be standardized in terms headings, units (SI), and structure within spreadsheets. Separate spreadsheets will be available for different testing methodologies for ease of use.
 ## Privacy
-
+The sensory metadata contains identifying information and is thus considered sensitive information. Therefore, this information will not be provided, and access to the information will not be granted to any person outside the Lab Manager or PI. Deidentified demographic information will be available within the metadata supplied in the supplemental materials section of the publication. 
 ## License & Reuse
-
+The policies governing the reuse, redistribution and creations of derivatives will fall under the Creative Commons Attribution License (CC BY) enforced by the journal for all open access submitted publications. Thus, readers are able to distribute, reuse, build upon and derive from the work so long as proper credit is given to the original work.
 # Archiving and preservation
 ## Archive
 
