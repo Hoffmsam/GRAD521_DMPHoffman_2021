@@ -63,7 +63,7 @@ Version tracking will be done using the version number scheme located on the fil
 Psychophysical data will be named in a similar fashion, following the format of Projectname_NameofTestMethod_Date_Version. Psychophysical data will follow the same version control methods.
 # Access and data sharing
 ## Availability
-Data will be made available at the time of publication. The data will be available by its inclusion in the supplemental materials section of the publication. The publication and subsequent data will be hosted on the American Journal of Enology and Viticulture website. The supplemental materials section is used as neither the sensory or enology fields have widely available data repositories for use at this time.
+Data will be made available at the time of publication. The data will be available by its inclusion in the supplemental materials section of the publication. The publication and subsequent data will be hosted on the American Journal of Enology and Viticulture website. The supplemental materials section is used as neither the sensory or enology fields have widely available data repositories for use at this time. All open access
 
 Both Sensory and psychophysical data, as well as related deidentified metadata will all be available as csv files within the supplemental materials sections.
 
@@ -74,5 +74,12 @@ The sensory metadata contains identifying information and is thus considered sen
 The policies governing the reuse, redistribution and creations of derivatives will fall under the Creative Commons Attribution License (CC BY) enforced by the journal for all open access submitted publications. Thus, readers are able to distribute, reuse, build upon and derive from the work so long as proper credit is given to the original work.
 # Archiving and preservation
 ## Archive
+The data and metadata will be preserved as csv within the supplemental materials section of the publication which has an ongoing archive of all works published within the journal, therefore the data will be preserved there indefinitely. 
 
+The raw sensory and psychophysical data that is generated during the testing is also stored for a minimum of 5 years upon the completion of the study. This is done within the Compusense® system used for sensory analysis. The system will store the data for a minimum of 5 years, after which it will store the data indefinitely until the end of the user license agreement. Psychophysical raw data will be preserved within the laboratory notebook, which in turn will be stored within the laboratory.
+
+Spreadsheets will remain stored as csv files within an Archive folder created within the laboratory Box drive for the same minimum of 5 years.
 ## Archive Access
+Access to the publicly available archived/preserved data will be maintained by the American Journal of Enology and Viticulture. This is maintained by their team, and access is given to the persons with accounts with the Journal.
+
+Access to the raw data preserved within the Compusense® system and laboratory notebooks is granted only by the Lab manager and/or PI.
