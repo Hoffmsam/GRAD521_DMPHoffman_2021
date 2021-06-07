@@ -40,7 +40,7 @@ Currently the field of Sensory Science does not have any formalized standards fo
 Data and/or Metadata for psychophysical analysis is controlled by recording the results in the standards covered within the MCPHS labarchives Lab Notebook standards
 ## Metadata Generation
 ### Sensory Metadata
-The metadata that is generated during this project will be collected via a screening survey conducted prior to the sensory test, that will also determine panelist eligibility. The information collected in the screen will consist of: Biological gender, age, average wine consumption per week, smoker status, pregnancy status, and anosmic status. This survey will be conducted via the Compusense® system and be available as a report in the form of a csv file to the Lab Manager. Demographic information will be provided to the author of the publication for the product, only after deidentification performed by the Lab Manager.
+The metadata that is generated during this project will be collected via a screening survey conducted prior to the sensory test, that will also determine panelist eligibility. The information collected in the screen will consist of: Biological gender, age, average wine consumption per week, smoker status, pregnancy status, and anosmic status. This survey will be conducted via the Compusense® system and be available as a report in the form of a csv file to the Lab Manager. Demographic information will be provided to the author of the publication for the product, only after deidentification performed by the Lab Manager. The testing conditions, temperature, air quality, and lighting of the sensory test will be recored by the Grad Student on the day of the test.
 ### Psychophysical Metadata
 Psychophysical metadata will be generated via benchtop analysis following relevant analytical methodologies. Psychophysical testing will be following standardized ISO methods when available, and acceptable testing methodology for the field when ISO methods unavailable.
 # Storage and security
@@ -51,7 +51,7 @@ Raw Data is stored on the Compusense® cloud system, deidentified data can be do
 Psychophysical raw data is generated and stored within laboratory notebooks kept physically within the laboratory. Data is then transferred onto spreadsheets for data analysis and stored within the laboratory Box drive. 
 ## Security & Backup
 ### Sensory Data
-The information is secured within the Compusense® cloud system. Access to which is only available to those granted access by the Lab Manger and requires 2 factor authentication upon every log in to the system. Additionally, all identifying information is only visible to the Lab Manger and PI. The only other users of the system are Grad Students. 
+The information is secured within the Compusense® cloud system. Access to which is only available to those granted access by the Lab Manger and requires 2 factor authentication upon every log in to the system. Additionally, all identifying information is only visible to the Lab Manger and PI. The only other users of the system are Grad Students who can only view and access the deidentified data of their own respective tests.
 
 All raw data is backed up on the Compusense® cloud system. Spreadsheets and other data copies stored on the laboratory Box drive are backed up on the laboratory’s server located within the PI’s office once a week.  The laboratory server is manually backed up once a week and does not use any special programs. Access to the laboratory Box drive can only be granted by the Lab Manager or the PI.
 ### Psychophysical Data
@@ -64,23 +64,23 @@ Version tracking will be done using the version number scheme located on the fil
 Psychophysical data will be named in a similar fashion, following the format of Projectname_NameofTestMethod_Date_Version. Psychophysical data will follow the same version control methods.
 # Access and data sharing
 ## Availability
-Data will be made available at the time of publication. The data will be available by its inclusion in the supplemental materials section of the publication. The publication and subsequent data will be hosted on the American Journal of Enology and Viticulture website. The supplemental materials section is used as neither the sensory or enology fields have widely available data repositories for use at this time. All open access
+Data will be made available at the time of publication. The data will be available by its inclusion in the supplemental materials section of the publication. The publication and subsequent data will be hosted on the American Journal of Enology and Viticulture website. The supplemental materials section is used as neither the sensory or enology fields have widely available data repositories for use at this time.
 
 Both Sensory and psychophysical data, as well as related deidentified metadata will all be available as csv files within the supplemental materials sections.
 
 Data will be standardized in terms headings, units (SI), and structure within spreadsheets. Separate spreadsheets will be available for different testing methodologies for ease of use.
 ## Privacy
-The sensory metadata contains identifying information and is thus considered sensitive information. Therefore, this information will not be provided, and access to the information will not be granted to any person outside the Lab Manager or PI. Deidentified demographic information will be available within the metadata supplied in the supplemental materials section of the publication. 
+The sensory metadata contains identifying information and is thus considered sensitive information. Therefore, this information will not be provided, and access to the information will not be granted to any person besides the Lab Manager or PI. Deidentified demographic information will be available within the metadata supplied in the supplemental materials section of the publication. 
 ## License & Reuse
 The policies governing the reuse, redistribution and creations of derivatives will fall under the Creative Commons Attribution License (CC BY) enforced by the journal for all open access submitted publications. Thus, readers are able to distribute, reuse, build upon and derive from the work so long as proper credit is given to the original work.
 # Archiving and preservation
 ## Archive
-The data and metadata will be preserved as csv within the supplemental materials section of the publication which has an ongoing archive of all works published within the journal, therefore the data will be preserved there indefinitely. 
+The data and metadata will be preserved as csv files within the supplemental materials section of the publication which has an ongoing archive of all works published within the journal, therefore the data will be preserved there indefinitely. 
 
 The raw sensory and psychophysical data that is generated during the testing is also stored for a minimum of 5 years upon the completion of the study. This is done within the Compusense® system used for sensory analysis. The system will store the data for a minimum of 5 years, after which it will store the data indefinitely until the end of the user license agreement. Psychophysical raw data will be preserved within the laboratory notebook, which in turn will be stored within the laboratory.
 
-Spreadsheets will remain stored as csv files within an Archive folder created within the laboratory Box drive for the same minimum of 5 years.
+Spreadsheets created from the Compusense® system or by benchtop analysis will remain stored as csv files within an Archive folder created within the laboratory Box drive for the same minimum of 5 years.
 ## Archive Access
-Access to the publicly available archived/preserved data will be maintained by the American Journal of Enology and Viticulture. This is maintained by their team, and access is given to the persons with accounts with the Journal.
+Access to the publicly available archived/preserved data will be maintained by the American Journal of Enology and Viticulture. This is maintained by their team, and access is given to the persons with accounts with the Journal. Open access publications with the journal are free to view, and thus publicly available.
 
 Access to the raw data preserved within the Compusense® system and laboratory notebooks is granted only by the Lab manager and/or PI.
