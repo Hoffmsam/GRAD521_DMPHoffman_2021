@@ -9,34 +9,35 @@ This project will generate multiple datasets that will be compiled into aggregat
 ## Analytical Data Size & File Type
 For the physicochemical data will consist of results for each analysis preformed for each treatment group in triplicate for each of the two years the test was performed. This results in one to two hundred pieces of physicochemical data per year. The file sizes of the corresponding spreadsheets are under one MB. 
 # Roles and responsibilities
-## Data Manager
+The following roles, unless specified apply to the data and metadata of both Sensory and Psychophysical analysis.
+### Data Manager
 This also falls to the PI as she is the one who is responsible for the data management plan. Additionally, she oversees all data generation, access, analysis, and distribution.
-## DMP Implementation
+### DMP Implementation
 This is the responsibility of the PI, as she prepares and maintains all IRB’s.
-## Protection of Sensitive and Protected Data
-The fall primarily to the Lab Manager as she is responsible for panelist onboarding, and deidentifying data.
-## Data Collection/Data Generation
+### Protection of Sensitive and Protected Data
+The fall primarily to the Lab Manager as she is responsible for panelist onboarding, and deidentifying data. There is no sensitive information for the psycophysical data generated within this project.
+### Data Collection/Data Generation
 This is the responsibility of the Grad Student in charge of the experiment.
-## Metadata Generation
-This falls to the Lab Manager who oversees demographic information and panelist recruitment.
-## Data Analysis
+### Metadata Generation
+This falls to the Lab Manager who oversees demographic information and panelist recruitment. Phychophysical metadata generation falls to the responsibility of the Grad Student.
+### Data Analysis
 The Grad Student oversees the data analysis for the project. The PI will assist only when necessary, for example the methodology is beyond the understanding of the graduate student at that time. 
-## Quality Control
+### Quality Control
 This falls on the Grad Student to recognize errors while administering the test, or large errors in the reported data. Additionally, they are there to ensure that no implicit bias is present.
-## Archiving and Preservation
-For the methods used this done using the Compusense® software system which stores the data indefinitely within its cloud system. This responsibility falls to the PI.
-## Instrumentation Maintenance 
+### Archiving and Preservation
+For the sensory methods used, this done using the Compusense® software system which stores the data indefinitely within its cloud system. This responsibility falls to the PI. The PI is also responsible for the preservation of all psychophysical data generated.
+### Instrumentation Maintenance 
 This is dependent on the instrumentation in need of maintenance. Sensory equipment falls under the responsibility of the Lab Manager, while analytical equipment is the responsibility of the PI.
-## Access Control
-Access to the Compusense® system is maintained by the Lab Manager.
-## Software Creation and Maintenance
+### Access Control
+Access to the Compusense® system is maintained by the Lab Manager. Access to the laboratory where lab notebooks containing psychophyscial data is maintained by the Lab Manager and the PI.
+### Software Creation and Maintenance
 Software is not created for this, or any project. The contract allowing usage of the Compusense system is maintained by the PI. 
 # Data standards and metadata
 ## Data & Metadata Standards
 ### Sensory Standards
 Currently the field of Sensory Science does not have any formalized standards for data or metadata. Therefore, it is not that there are no adequate disciplinary standards for the study, there simply are none. This is because the field as a whole has not embraced the open sharing of data, thus so few studies implement data sharing there is little demand for standards. While there are no formal standards for data and/or metadata, there is expected metadata information that is required for all publications. These metadata requirements consist of the demographic information of the panelists taking part in the sensory study, as well as the testing conditions in which the sensory study takes place.
 ### Psychophysical Standards
-Data and/or Metadata for psychophysical analysis is controlled by recording the results in the standards covered within the MCPHS labarchives Lab Notebook Metadata standards
+Data and/or Metadata for psychophysical analysis is controlled by recording the results in the standards covered within the MCPHS labarchives Lab Notebook standards
 ## Metadata Generation
 ### Sensory Metadata
 The metadata that is generated during this project will be collected via a screening survey conducted prior to the sensory test, that will also determine panelist eligibility. The information collected in the screen will consist of: Biological gender, age, average wine consumption per week, smoker status, pregnancy status, and anosmic status. This survey will be conducted via the Compusense® system and be available as a report in the form of a csv file to the Lab Manager. Demographic information will be provided to the author of the publication for the product, only after deidentification performed by the Lab Manager.
