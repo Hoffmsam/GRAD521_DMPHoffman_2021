@@ -32,6 +32,41 @@ Access to the Compusense® system is maintained by the Lab Manager.
 ## Software Creation and Maintenance
 Software is not created for this, or any project. The contract allowing usage of the Compusense system is maintained by the PI. 
 # Data standards and metadata
+## Data & Metadata Standards
+### Sensory Standards
+Currently the field of Sensory Science does not have any formalized standards for data or metadata. Therefore, it is not that there are no adequate disciplinary standards for the study, there simply are none. This is because the field as a whole has not embraced the open sharing of data, thus so few studies implement data sharing there is little demand for standards. While there are no formal standards for data and/or metadata, there is expected metadata information that is required for all publications. These metadata requirements consist of the demographic information of the panelists taking part in the sensory study, as well as the testing conditions in which the sensory study takes place.
+### Psychophysical Standards
+Data and/or Metadata for psychophysical analysis is controlled by recording the results in the standards covered within the MCPHS labarchives Lab Notebook Metadata standards
+## Metadata Generation
+### Sensory Metadata
+The metadata that is generated during this project will be collected via a screening survey conducted prior to the sensory test, that will also determine panelist eligibility. The information collected in the screen will consist of: Biological gender, age, average wine consumption per week, smoker status, pregnancy status, and anosmic status. This survey will be conducted via the Compusense® system and be available as a report in the form of a csv file to the Lab Manager. Demographic information will be provided to the author of the publication for the product, only after deidentification performed by the Lab Manager.
+### Psychophysical Metadata
+Psychophysical metadata will be generated via benchtop analysis following relevant analytical methodologies. Psychophysical testing will be following standardized ISO methods when available, and acceptable testing methodology for the field when ISO methods unavailable.
 # Storage and security
+## Data Storage
+### Sensory Data
+Raw Data is stored on the Compusense® cloud system, deidentified data can be downloaded in the form of spreadsheets to be used for data analysis. Spreadsheets are stored on the laboratory Box drive.
+### Psychophysical Data
+Psychophysical raw data is generated and stored within laboratory notebooks kept physically within the laboratory. Data is then transferred onto spreadsheets for data analysis and stored within the laboratory Box drive. 
+## Security & Backup
+### Sensory Data
+The information is secured within the Compusense® cloud system. Access to which is only available to those granted access by the Lab Manger and requires 2 factor authentication upon every log in to the system. Additionally, all identifying information is only visible to the Lab Manger and PI. The only other users of the system are Grad Students. 
+
+All raw data is backed up on the Compusense® cloud system. Spreadsheets and other data copies stored on the laboratory Box drive are backed up on the laboratory’s server located within the PI’s office once a week.  The laboratory server is manually backed up once a week and does not use any special programs. Access to the laboratory Box drive can only be granted by the Lab Manager or the PI.
+### Psychophysical Data
+Laboratory notebooks are physically stored within the laboratory, which remains locked at all times. Laboratory notebooks are not to be removed from the lab at any time. Spreadsheets consisting of psychophysical data are stored on the same laboratory Box drive as the sensory data.
+## Organization & Version Control
+The data generated using the Compusense® system is exported into Excel spreadsheets. Each spreadsheet contains the results of a single method conducted and will be named in the following structure: SensoryPanelName_NameofTestMethod_Date_Version. For example, WineConsumerRedBlotchStudy_AromaCATA_05072021_v1. Data will be stored in the project folder contained within the Data folder within the shared Box drive. 
+
+Version tracking will be done using the version number scheme located on the file name. Additionally, any changes made will be recorded on the change log created within the spreadsheet (this is a tab located within the spreadsheet in which the date and nature of the change is recorded).
 # Access and data sharing
+## Availability
+
+## Privacy
+
+## License & Reuse
+
 # Archiving and preservation
+## Archive
+
+## Archive Access
